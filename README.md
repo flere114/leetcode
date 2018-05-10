@@ -11,7 +11,7 @@ My uhunt : https://uhunt.onlinejudge.org/id/89421
 
 ## Easy
 ### good for interview to write code
-0001
+0001,
 0830
 
 ### good for interview to discuss
