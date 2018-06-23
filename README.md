@@ -2,24 +2,16 @@
 
 For saving code~
 
+Just for fun :)
+
+However I need to say,
+Even though I can solve the problem and pass the test,
+it *doesn't imply* :
+- code is good, clean, elegant
+- solution is good (time complexity, memory)
+
+### About me
+
+I had solved 1200+ problems in UVA....several years ago :)
+
 My uhunt : https://uhunt.onlinejudge.org/id/89421
-
-## Hard
-
-## Medium
-
-
-## Easy (Come up with solution in 3 mins)
-However, I need to say, 
-come up with a solution quickly and pass the test, 
-doesn't imply the solution is the best and elegant.
-
-### good for interview to write code
-0001,
-0830
-
-### good for interview to discuss
-0828
-
-### boring
-0831
